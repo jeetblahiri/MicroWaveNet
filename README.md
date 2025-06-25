@@ -1,7 +1,7 @@
 # MicroWaveNet: Lightweight CBAM-Augmented Wavelet-Attentive Networks for Robust EEG Denoising
 
 
-[Jeet Bandhu Lahiri](https://www.jeetblahiri.com/me), [Arvasu Kulkarni](https://github.com/arvasu-kulkarni), [Siddharth Panwar](https://faculty.iitmandi.ac.in/~siddharthpanwar/), MicroWaveNet: Lightweight CBAM-Augmented Wavelet-Attentive Networks for Robust EEG Denoising, IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2025 (**IEEE MLSP**), 2025 
+[Jeet Bandhu Lahiri](https://www.jeetblahiri.com/me), [Arvasu Kulkarni](https://github.com/arvasu-kulkarni), [Siddharth Panwar](https://faculty.iitmandi.ac.in/~siddharthpanwar/), MicroWaveNet: Lightweight CBAM-Augmented Wavelet-Attentive Networks for Robust EEG Denoising, 35th IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2025 (**IEEE MLSP**), 2025 
 
 ![MicroWaveNet Architecture](figure/architecture.png)
 
