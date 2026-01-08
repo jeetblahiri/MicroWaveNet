@@ -11,5 +11,3 @@ MicroWaveNet is an ultra-lightweight deep learning architecture designed for rob
 
 ## Dataset
 The full dataset is publicly available at: https://osf.io/ub8ae/
-
-**Details of paper to be updated soon!**
